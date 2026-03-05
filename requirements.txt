@@ -1,0 +1,17 @@
+# Data Acquisition
+yfinance>=0.2.31
+
+# Numerical Computing & Data Analysis
+numpy>=1.24.3
+pandas>=2.0.3
+scipy>=1.10.1
+
+# Risk Management & Econometrics
+arch>=6.2.0
+
+# Copula Modeling
+copulas>=0.9.2
+
+# Visualization
+matplotlib>=3.7.2
+seaborn>=0.12.2
